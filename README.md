@@ -9,7 +9,7 @@ Monolitna agentska aplikacija sa backendom i frontendom.
 ### Spisak mikroservisa
 
 Naziv mikroservisa | Port 
------------- | ------------- | ------------- | -------------
+------------ | -------------
 Eureka service discovery |  8761
 Zuul gateway service |  8662 
 Authentication service |  8083 
